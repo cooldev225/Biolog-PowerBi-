@@ -1,0 +1,5 @@
+
+BIO-SQLDEV01\BIOSQLDEV01
+u:biosqlsysadmin  
+p: sqlbear1455@0099
+ 
